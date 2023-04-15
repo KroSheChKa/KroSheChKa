@@ -11,8 +11,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KroSheChKa&repo=PandaBot&layout=compact&title_color=f8f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d)](https://github.com/KroSheChKa/PandaBot) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KroSheChKa&repo=FootBot&layout=compact&title_color=f8f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d)](https://github.com/KroSheChKa/FootBot)
 
-----
+---
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=35&duration=4200&pause=100&color=9595953E&vCenter=true&width=1100&height=40&lines=Loading+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+." alt="Typing SVG" /></a>
 
 <!---
 KroSheChKa/KroSheChKa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
