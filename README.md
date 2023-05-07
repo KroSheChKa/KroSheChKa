@@ -13,7 +13,7 @@
 
 ---
 
-[![KroSheChKa's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KroSheChKa&theme=dark)](https://github.com/KroSheChKa/leetcode-stats)
+[![KroSheChKa's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KroSheChKa&theme=dark)](https://leetcode.com/KroSheChKa/)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=25&duration=4200&pause=1000&color=9fa2a5&vCenter=true&width=1100&height=40&lines=In+progress.+.+." alt="Typing SVG" /></a>
 
 ---
