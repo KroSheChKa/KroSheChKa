@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=300&size=27&duration=4200&pause=600&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=A+self-taught+high+school+programmer" alt="Typing SVG" /></a></h3>
 
-   ![My GitHub stats](https://github-readme-statssigma-five.vercel.app/api?username=KroSheChKa&hide=contribs,issues&count_private=true&show_icons=true&title_color=f8f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d&card_width=400&number_format=long)
+   ![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KroSheChKa&hide=contribs,issues&count_private=true&show_icons=true&title_color=f8f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d&card_width=400&number_format=long)
 <!---[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KroSheChKa&layout=default&title_color=f8f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d&card_width=392&langs_count=2&number_format=long)](https://github.com/anuraghazra/github-readme-stats)--->
 
 <h2 align="center">Really cool <a href="https://github.com/KroSheChKa?tab=repositories" target="_blank">projects</a></h2>
