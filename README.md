@@ -9,7 +9,7 @@
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KroSheChKa&repo=BasketBot&layout=compact&title_color=18f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d)](https://github.com/KroSheChKa/BasketBot) 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KroSheChKa&repo=PandaBot&layout=compact&title_color=18f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d)](https://github.com/KroSheChKa/PandaBot) 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KroSheChKa&repo=FootBot&layout=compact&title_color=18f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d)](https://github.com/KroSheChKa/FootBot)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KroSheChKa&repo=RLQC&layout=compact&title_color=18f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d)](https://github.com/KroSheChKa/RLQC)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KroSheChKa&repo=SteamEmoticonsFilter&layout=compact&title_color=18f8f8&text_color=cfcfcf&bg_color=0d1117&border_color=161b22&border_radius=20&icon_color=e2dc5d&ring_color=e2dc5d)](https://github.com/KroSheChKa/SteamEmoticonsFilter)
 
 ---
